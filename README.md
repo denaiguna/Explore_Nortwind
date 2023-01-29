@@ -7,6 +7,8 @@ This repo was created to analyze data of Northwind database. Three main goals of
 2. how is the price of top product sold in best sales country?
 3. What is the average freight each of the country?
 
+From this goals, I give some recommendation for the company particularly in marketing and logistic team.
+
 To answer this question, there are several steps conducted.
 
 1. Create research question / goals
